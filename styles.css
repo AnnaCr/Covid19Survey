@@ -238,7 +238,7 @@ button{
   margin-bottom: 5%;
   background-color: #ff8d1e;
   border: 1px solid whitesmoke;
-  padding-bottom: : 5px;
+  padding-bottom:  5px;
   border-radius: 5%;
   margin-left:43%;
 	font-size: 16px;
@@ -250,8 +250,8 @@ button{
 }
 
 /*Media Queries*/
-@media only screen and (max-width: 800px)and(min-width:650px){
-	#text-area,{
+@media only screen and (min-width: 650px)and(max-width:800px){
+	#text-area{
 		margin-left:30%;
 	}
 #dropdown{
@@ -267,7 +267,8 @@ button{
 	width: 20px;
 	top: 20px;
 	left:250px;
-	}}
+	}
+}
 
 
 @media only screen and (max-width: 649px)and (min-width:400px){
