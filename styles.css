@@ -306,6 +306,7 @@ button{
 		.checkboxes, #financial-change, #life-change,#name-label,#email-label,#number-label{
 		margin-left: 7px;
 	}
+}
 
 #name,#email,#number{
 	margin-left: 10px;
