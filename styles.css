@@ -271,7 +271,7 @@ button{
 }
 
 
-@media only screen and (max-width: 649px)and (min-width:400px){
+@media only screen and (max-width: 649px) and (min-width:400px){
    .checkboxes,#text-area,#name-label, #email-label,#number-label{
 		 margin-left: 20%;
 	 }
