@@ -250,7 +250,7 @@ button{
 }
 
 /*Media Queries*/
-@media only screen and (min-width: 650px)and(max-width:800px){
+@media only screen and (min-width: 650px) and (max-width:800px){
 	#text-area{
 		margin-left:30%;
 	}
